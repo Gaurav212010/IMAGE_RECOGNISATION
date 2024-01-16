@@ -1,0 +1,14 @@
+body{
+    background-color:chartreuse;
+    }
+.heading{
+    font-size:  20px ;
+}
+.name_of_objects{
+    color:rgb(252, 104, 5);
+}
+#camera,#result{
+    border: 5px solid black;
+    width: 350px;
+    height: 300px;
+}
